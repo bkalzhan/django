@@ -1,0 +1,19 @@
+h1 {
+    color: #C25100;
+    font-family: 'Lobster';
+}
+
+.table {
+    width: 30%;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+
+.bottom_line{
+    color: orange;
+    display: inline-block;
+    margin: 40%;
+    padding: 50%
+    border-radius: 10%;
+}
