@@ -3,17 +3,16 @@ h1 {
     font-family: 'Lobster';
 }
 
-.table {
-    width: 30%;
-    display: inline-block;
-    margin-right: 30px;
-    margin-bottom: 40px;
+#table1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
 }
 
 .bottom_line{
     color: orange;
     display: inline-block;
-    margin: 40%;
-    padding: 50%
+    margin: 10%;
+    padding: 10%
     border-radius: 10%;
 }
