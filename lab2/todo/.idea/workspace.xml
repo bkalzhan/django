@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea5b78c-93f2-477a-aac4-0ad6086ec2b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/static/css/todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/main/static/css/todo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/todo/completed_todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/todo/completed_todo_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/templates/todo/todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/todo/todo_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
